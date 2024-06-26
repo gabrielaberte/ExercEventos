@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercEventos", "ExercEventos\ExercEventos.csproj", "{EA1712D1-5AC3-4472-9B5F-6469D38D1B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1712D1-5AC3-4472-9B5F-6469D38D1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1712D1-5AC3-4472-9B5F-6469D38D1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1712D1-5AC3-4472-9B5F-6469D38D1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1712D1-5AC3-4472-9B5F-6469D38D1B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECBC38EC-568F-4F46-BD95-1E0EBFB2BD8A}
+	EndGlobalSection
+EndGlobal
